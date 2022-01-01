@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lys-kd.com</id>
     <title>Gridea</title>
-    <updated>2021-12-31T13:39:59.740Z</updated>
+    <updated>2022-01-01T05:49:06.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lys-kd.com"/>
     <link rel="self" href="http://lys-kd.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>http://lys-kd.com/images/avatar.png</logo>
     <icon>http://lys-kd.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://lys-kd.com/post/hello-gridea/</id>
