@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://lys-kd.com</id>
+    <id>http://li-yaosong.github.io</id>
     <title>Li-Yaosong</title>
-    <updated>2022-01-16T17:48:19.169Z</updated>
+    <updated>2022-01-16T17:54:11.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://lys-kd.com"/>
-    <link rel="self" href="http://lys-kd.com/atom.xml"/>
-    <logo>http://lys-kd.com/images/avatar.png</logo>
-    <icon>http://lys-kd.com/favicon.ico</icon>
+    <link rel="alternate" href="http://li-yaosong.github.io"/>
+    <link rel="self" href="http://li-yaosong.github.io/atom.xml"/>
+    <logo>http://li-yaosong.github.io/images/avatar.png</logo>
+    <icon>http://li-yaosong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Li-Yaosong</rights>
     <entry>
         <title type="html"><![CDATA[123]]></title>
-        <id>http://lys-kd.com/post/hello-gridea/</id>
-        <link href="http://lys-kd.com/post/hello-gridea/">
+        <id>http://li-yaosong.github.io/post/hello-gridea/</id>
+        <link href="http://li-yaosong.github.io/post/hello-gridea/">
         </link>
         <updated>2022-01-01T08:23:03.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
